@@ -76,7 +76,7 @@ startButton.addEventListener('click', () => {
 howToPlayButton.addEventListener('click', () => {
     alert(
         "🎄 Whack The Grinch 🎄\n\n" +
-        "How to Play:\n\n- Click on the Grinch to score points.\n- Each Grinch you hit gives you 10 points.\n- The game lasts for 30 seconds.\n- Try to get the highest score possible!"
+        "How to Play:\n\n- Click on the Grinch to score points.\n- Each Grinch you hit gives you 10 points.\n- The game lasts for 15 seconds.\n- Try to get the highest score possible!"
     )
 })
 
